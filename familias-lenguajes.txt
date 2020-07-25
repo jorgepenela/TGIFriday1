@@ -116,3 +116,38 @@ pero la pueden llegar a encontrar.
 porque ahi el scope no es el mismo que let y const
 tampoco el this.
 
+-------------------------------------------------
+               HTTP SERVER
+-------------------------------------------------
+Conmutacion de paquetes.
+Red IP
+
+Un paquete es un conjunto de bits que viajan de Una
+placa de red a otra placa de red.
+
+Este escalon o nivel se lo denomina nivel 1. Fisico.
+Como saber cuando arranca y termina un paquete. 
+Esto se lo llama nivel 2. nivel de enlace.
+Rutas alternativas, es decir un paquete puede 
+eventualmente viajar por diferentes rutas.
+Nivel 3 o nivel IP. Routers.
+
+Problema que trae ? es que los paquetes llegan
+desordenados. Entonces hay un protocolo (capa 4)
+TCP. TCP/IP.
+
+La capa siguiente, es un protocolo basado en texto 
+plano, que se llama HTTP.
+
+-------------------------------------------------
+Cloud services
+-------------------------------------------------
+
+Infraestructure as a service
+  Amazon AWS
+  Digital Ocean
+  Atlantic
+Platform as a service
+  Amazon AWS lambda
+  Heroku
+
